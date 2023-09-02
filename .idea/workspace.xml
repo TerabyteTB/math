@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be1eff2-7ec9-4a46-a19a-9eb388ad8f1a" name="Changes" comment="The basics">
+    <list default="true" id="6be1eff2-7ec9-4a46-a19a-9eb388ad8f1a" name="Changes" comment="funni word make go lol">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Functions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670214782189</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="funni word make go lol">
+      <created>1670215991923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670215991923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +119,7 @@
     <MESSAGE value="Creation" />
     <MESSAGE value="Spacing Schtuff" />
     <MESSAGE value="The basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="The basics" />
+    <MESSAGE value="funni word make go lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="funni word make go lol" />
   </component>
 </project>

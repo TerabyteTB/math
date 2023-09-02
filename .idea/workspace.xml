@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be1eff2-7ec9-4a46-a19a-9eb388ad8f1a" name="Changes" comment="Random thing">
+    <list default="true" id="6be1eff2-7ec9-4a46-a19a-9eb388ad8f1a" name="Changes" comment="Fixed bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Functions.java" afterDir="false" />
@@ -131,6 +131,7 @@
     <MESSAGE value="The basics" />
     <MESSAGE value="funni word make go lol" />
     <MESSAGE value="Random thing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random thing" />
+    <MESSAGE value="Fixed bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug" />
   </component>
 </project>
